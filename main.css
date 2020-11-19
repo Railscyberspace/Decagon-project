@@ -1,0 +1,36 @@
+
+.red-text {
+    color: red;
+  }
+  
+  h2 {
+    font-family: Lobster, monospace;
+  }
+  
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+  
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    border-radius: 50%;
+  }
+  
+  thick-green-border{
+      border-color:green;
+  
+  }
+
+  .green-background{
+    background-color: green;
+  }
+
+  .silver-background{
+    background-color: silver;
+  }
+
+
