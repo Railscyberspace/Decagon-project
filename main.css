@@ -30,3 +30,28 @@
 #cat-photo-form{
   background-color:goldenrod;
 }
+
+
+.injected-text{
+  margin-bottom: -25px;
+  text-align:center;
+}
+
+.box{
+  border-style:solid;
+  border-color:black;
+  border-width:5px;
+  text-align:center;
+}
+.yellow-text{
+  background-color: yellow;
+  padding:10px;
+}
+
+.red-text{
+  background-color:crimson;
+  color:#fff;
+  padding:40px;
+
+}
+
