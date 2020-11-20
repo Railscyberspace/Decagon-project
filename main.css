@@ -63,6 +63,9 @@ injected-text{
   padding-left:40px;
   padding-right:20px;
   padding-bottom: 20px;
-
 }
 
+[type= "radio"]{
+  margin-top:10px;
+  margin-bottom:15px;
+}
