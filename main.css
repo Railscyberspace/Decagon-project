@@ -86,7 +86,7 @@ injected-text{
   color:orange;
 }
 
-.fuchsia-text{
+[for="fuchsia-text"]{
   color:#f0F;
 
 }
